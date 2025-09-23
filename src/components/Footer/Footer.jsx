@@ -53,7 +53,7 @@ const Footer = () => {
           <div className="footer-card card-offices fade-up">
             <h3 className="footer-title">Our Offices</h3>
             <p><FiMapPin /> House No 451, Ga-Sekhaolelo, Mokopane, Limpopo</p>
-            <p><FiMapPin /> 123 Main Street, Pretoria, Gauteng</p>
+            <p><FiMapPin /> 192, San Ridge Village, Midrand, South Africa</p>
             <p><FiPhone /> +27 79 309 5966 | +27 83 804 2506</p>
             <p><FiMail /> jaqueenwork@gmail.com</p>
             <p><FiClock /> Mon – Fri, 08:00 – 17:00</p>
