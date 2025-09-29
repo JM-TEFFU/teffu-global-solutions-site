@@ -22,7 +22,7 @@ const About = () => {
     { name: "Jaqueen Mokhoma Teffu", role: "Founder & CEO", img: "/assets/team/teffu.jpg", linkedin: "#", twitter: "#", facebook: "#" },
     { name: "Kgopotso Makwala", role: "Finance Manager", img: "/assets/team/Makwala.jpg", linkedin: "#", twitter: "#", facebook: "#" },
     { name: "Daniel Makhado", role: "Operations Manager", img: "/assets/team/Dan.webp", linkedin: "#", twitter: "#", facebook: "#" },
-    { name: "Mark Wilson", role: "Civil Engineer", img: "/assets/team/Malepa.webp", linkedin: "#", twitter: "#", facebook: "#" },
+    { name: "Thabiso Wise Malepa", role: "Civil Engineer", img: "/assets/team/Malepa.webp", linkedin: "#", twitter: "#", facebook: "#" },
     { name: "Ramokone Masola", role: "IT Manager", img: "/assets/team/Masola.jpg", linkedin: "#", twitter: "#", facebook: "#" },
   ];
 
